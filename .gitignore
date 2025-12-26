@@ -6,3 +6,7 @@ out/
 .idea/
 .DS_Store
 Thumbs.db
+
+# 忽略posts下的文章内容
+posts/*.md
+!posts/README.md
