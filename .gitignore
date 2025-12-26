@@ -10,3 +10,6 @@ Thumbs.db
 # 忽略posts下的文章内容
 posts/*.md
 !posts/README.md
+
+# 忽略备份的posts内容
+posts-backup/
